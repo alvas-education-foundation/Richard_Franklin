@@ -1,0 +1,2 @@
+In the fifth day I went through the section which was about exception handling. 
+It was all about different types of exceptions and how to handle them while going with a program.
