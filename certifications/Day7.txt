@@ -1,0 +1,2 @@
+In the seventh day I went through the section of the course that explained about python decorators.
+And python generators and I also had some tasks given by them regarding the topic.
