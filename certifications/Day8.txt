@@ -1,0 +1,5 @@
+Name of the course: Certified Kubernetes Administrator (CKA) with Practice Tests
+Certificate Provider: Udemy
+This course has 17 sections and the total duration is 15 hours.
+In the Eighth day I went through the section of this new  course that gave the introduction  regarding kubernetes and its core concepts. 
+And how it can be used for the future world of cloud computing.
