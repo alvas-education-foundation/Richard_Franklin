@@ -1,0 +1,2 @@
+In the tenth day I went through the section of the course that explained about logging & monitoring, application lifecycle management and cluster maintenance. 
+It mainly explained about how Kubernetes can be used optimally.
