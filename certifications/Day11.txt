@@ -1,0 +1,2 @@
+In the eleventh day I went through the section of the course that explained about cluster maintenance and security. 
+Security of the cloud computing and how safe and efficient it is.
