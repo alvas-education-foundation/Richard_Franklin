@@ -1,0 +1,3 @@
+In the twelfth day I went through the section of the course that explained about networking using kubernetes 
+and how it’s different from other cloud computing techniques. 
+Had also done few tasks given by them.
