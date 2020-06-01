@@ -1,0 +1,2 @@
+In the thirteenth day I went through the section of the course that explained about troubleshooting, end to end tests and other stuffs related to the network. 
+I also took a mock exam of the course.
