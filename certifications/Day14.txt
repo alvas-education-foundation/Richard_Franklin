@@ -1,0 +1,4 @@
+Name of the course: Python for machine learning
+Certificate Provider: greatlearning
+This course has 5 sections and the total duration is 5 hours.
+On 02/06/2020 I went through the section of the course that explained about how python can be used for machine learning, why machine learning and how is python better than other languages for machine learning.
