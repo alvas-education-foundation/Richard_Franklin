@@ -1,0 +1,4 @@
+Name of the course: Cloud Foundations
+Certificate Provider: greatlearning
+This course has 11 modules and the total duration is 5 hours.
+On 03/06/2020 I went through the section of the course that explained on cloud foundations, how they are managed, important contents based on industry point of view and many more regarding the topic.
