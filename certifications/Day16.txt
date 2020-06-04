@@ -1,0 +1,4 @@
+Name of course: Python and Django Full Stack Web Developer Bootcamp
+Certificate provider: udemy
+This section was about the advance properties of CSS it was about how use different fonts download it from external source and apply it. 
+It also explained the boxing concept. 
