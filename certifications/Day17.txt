@@ -1,0 +1,4 @@
+Name of course: Data Visualization using Tableau
+Certificate provider: greatlearning
+The total course was about understanding the way data can be represented and how data can be organized in a proper way. 
+How data can be analyzed from its representation and clearly get the required information after processing.
