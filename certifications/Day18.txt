@@ -1,0 +1,5 @@
+Name of course: Java programming
+Certificate provider: greatlearning
+
+The total course was about how one can code using this language and how this language is different from any other language; what specifically is peculiar in it. 
+Basics of the language, different data structures and different functionalities of the language was taught.
