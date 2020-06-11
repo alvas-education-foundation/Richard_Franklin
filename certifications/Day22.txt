@@ -1,0 +1,4 @@
+Name of course: Machine learning foundations
+Certificate provider: greatlearning
+The total course was about the basics and the necessary prerequisites for machine learning. 
+I went through few sections of the course which was about  few mathematical concepts which is needed for machine learning.
