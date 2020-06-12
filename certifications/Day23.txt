@@ -1,0 +1,5 @@
+Name of course: Machine learning foundations
+Certificate provider: greatlearning
+The total course was about the basics and the necessary prerequisites for machine learning. 
+I went through the remaining sections of the course which was about linear regression and logistic regression. 
+I also had few tests to take as I was advancing through the course.
