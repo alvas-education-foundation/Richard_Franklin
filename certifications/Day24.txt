@@ -1,0 +1,5 @@
+Name of course: Introduction to R
+Certificate provider: greatlearning
+The total course was about the basics and overall introduction to the language. 
+I learnt the different data types, data structures, data manipulation and about plots. 
+I also had few quizzes based on what I learnt as I was advancing through the course.
