@@ -1,0 +1,5 @@
+Name of course: Mastering big data analytics
+Certificate provider: greatlearning
+The total course was about how we can get thorough with big data analysis and to master the art. 
+The first section of the course was about Hadoop: Master your big data. 
+It was all about what is hadoop, the different versions of it, HDFS and many more related to the topic.
