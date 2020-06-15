@@ -1,0 +1,5 @@
+Name of course: Mastering big data analytics
+Certificate provider: greatlearning
+The total course was about how we can get thorough with big data analysis and to master the art. 
+Today I went through the section of the course which was about HIVE and bid data SQL. 
+Different illustrations of HIVE and how the database can be managed was discussed here.
