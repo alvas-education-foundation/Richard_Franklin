@@ -1,0 +1,6 @@
+Name of course: Mastering big data analytics
+Certificate provider: greatlearning
+The total course was about how we can get thorough with big data analysis and to master the art. 
+Today I went through the section of the course which was about SPARK. 
+Here I learnt about SPARK basics, its architecture, terminologies and how it’s different compared to Hadoop. 
+Few other stuffs related to it was also told here.
