@@ -1,0 +1,6 @@
+Name of course: Mastering big data analytics
+Certificate provider: greatlearning
+The total course was about how we can get thorough with big data analysis and to master the art. 
+Today I went through the section of the course which was about Apache kafka. 
+Here I learnt how this streaming platform is useful for big data analysis. 
+The components, partitions and all other information regarding this platform was told here.
