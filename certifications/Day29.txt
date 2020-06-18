@@ -1,0 +1,6 @@
+Name of course: Data science with python
+Certificate provider: greatlearning
+The total course was about how we can get thorough with data science and data manipulation with python. 
+Here a lot of basic details regarding statistical representation of data is discussed, along with few important parameters regarding the same. 
+How python can be used to do the analysis and how can we come forth with the solution. 
+Few basic details of python is also discussed here.
