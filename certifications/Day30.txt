@@ -1,0 +1,4 @@
+Name of course: Microsoft Azure essentials
+Certificate provider: greatlearning
+The total course was about how we can get thorough with what Microsoft azure is and how its beneficial in the branch of cloud computing. 
+Today I went through storage computing and network where total brief introduction to azure was done and how can we use it in implementing cloud computations.
