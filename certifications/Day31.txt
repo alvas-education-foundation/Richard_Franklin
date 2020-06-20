@@ -1,0 +1,4 @@
+Name of course: Microsoft Azure essentials
+Certificate provider: greatlearning
+The total course was about how we can get thorough with what Microsoft azure is and how it’s beneficial in the branch of cloud computing. 
+Today I went through the managed services of Azure where I went through Azure IoT, Azure Hub and related topics.
