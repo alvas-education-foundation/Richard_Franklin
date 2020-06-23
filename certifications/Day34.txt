@@ -1,0 +1,5 @@
+Name of course: Statistics for machine learning
+Certificate provider: greatlearning
+The total course is about getting familiar with the statistics jargon and we address the need for statistical tools and techniques. 
+Today I went through the session where probability and different probability distributions were taught. 
+What are the different types and how can they be implemented were all taught here. 
