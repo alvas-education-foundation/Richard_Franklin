@@ -1,0 +1,4 @@
+Name of course: Spark basics and streaming
+Certificate provider: greatlearning
+The total course is about getting familiar with big data analysis and how spark can be implemented in it. 
+Today I went through spark basics, the difference between spark and hadoop and the spark architecture.
